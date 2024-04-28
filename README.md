@@ -1,23 +1,27 @@
 # Sachin Agrawal
 
-## High School Student
-
-### Washington, DC
+## High School Student; Washington, DC
 
 I am a self-taught programmer who knows Swift, Objective/Arduino C, Python, JavaScript, HTML, CSS, LaTeX, PHP, Ruby, and Bash/Shell. 
-I have created several apps for Fitbit Versa smartwatches, and I am also part of the Apple Developer Program. 
+I have created several apps, games, and clockfaces for Fitbit Versa smartwatches, some of which are open source on my Github.
+I'm a full-stack web developer who owns multiple websites, including link shorteners made using YOURLS and some custom plugins.
+I'm now more into iOS/WatchOS app and game development so I joined the Apple Developer Program and spend most of my time on that.
+Other projects I have worked on include two fun Discord bots and calculus programs for my TI-84 Plus CE calculator.
 In my free time, I like to play the popular block-based videogame Minecraft, and post Minecraft videos on YouTube.
+Some of my other hobbies besides coding and Minecraft include playing the violin, lacrosse, rickrolling, and reading. 
 
 #### Websites
 * Primary: [sachinagrawal.me](https://sachinagrawal.me)
 * Fitbit: [sagrawal8fitbit.dev](https://sagrawal8fitbit.dev)
-* YouTube [scinovuscrafted.com](https://scinovuscrafted.com)
+* Bots: [scisdiscordbots.com](https://scisdiscordbots.com)
+* Calculator: [ti84calc.dev](https://ti84calc.dev)
+* YouTube: [scinovuscrafted.com](https://scinovuscrafted.com)
 
 #### Contact
-* Email: [contact@sachin.email](mailto:contact@sachin.email)
+* Email: [github@sachin.email](mailto:github@sachin.email)
 * Discord: [scinovuscrafted](https://discord.com/users/575795042933932071)
 
-#### Projects
+### Projects
 See some of my favorite projects in the pins just below this!
 
 <!--
