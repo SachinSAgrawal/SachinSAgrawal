@@ -48,7 +48,7 @@ See some of my favorite projects in the pins just below this or continue reading
 * [Pet Hamster Fitbit](https://github.com/SachinSAgrawal/Pet-Hamster-Fitbit) An open-source Fitbit app to watch a hamster run in his cage with a few features.
 * [Pixel Art Board](https://github.com/SachinSAgrawal/Pixel-Art-Board) A simple python code that makes use of Turtle to turn the canvas into a pixel art board.
 * [Rickroll Clock Fitbit](https://github.com/SachinSAgrawal/Rickroll-Clock-Fitbit) An open-source Fitbit clockface that shows a Rickroll GIF along with a few statistics.
-* [Settings](https://github.com/SachinSAgrawal/Settings) A simple and customizable settings page with a familiar UI you can easily add to any app.
+* [Settings](https://github.com/SachinSAgrawal/Settings) A simple and customizable settings page with a familiar UI you can add to any app.
 * [Tanks Game](https://github.com/SachinSAgrawal/Tanks-Game) The Tanks Game coded in Ruby that runs entirely in terminal using ASCII graphics.
 * [Xcode RPC](https://github.com/SachinSAgrawal/Xcode-RPC) An Xcode RPC for Discord originally made by llsc12 with an improved UI by me.
 * [YOURLS Device Details](https://github.com/SachinSAgrawal/YOURLS-Device-Details) A YOURLS plugin to parse the user-agent and display information about IP and device.
