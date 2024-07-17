@@ -37,21 +37,22 @@ I am by far the most active on Discord so I am most likely to reply there.
 ### Projects
 See some of my favorite projects in the pins just below this or continue reading for a full list!
 
-* [AR Stack](https://github.com/SachinSAgrawal/AR-Stack) This app brings the popular game Stack into the real world with Augmented Reality.
-* [AR Vector Fields](https://github.com/SachinSAgrawal/AR-Vector-Fields) This app allows you to visualize vector fields in the real world with Augmented Reality.
-* [Board Breaker](https://github.com/SachinSAgrawal/Board-Breaker) The first-of-its-kind Board Breaker game coded in Ruby that can be run from terminal.
-* [Dino Game](https://github.com/SachinSAgrawal/Dino-Game) This app brings the iconic Google Chrome no-internet Dinosaur Game to your Apple Watch.
-* [Hangman ASCII](https://github.com/SachinSAgrawal/Hangman-ASCII) Play the classic game of Hangman by guessing a secret word with ASCII art visuals.
-* [Markdown Cheatsheet](https://github.com/SachinSAgrawal/Markdown-Cheatsheet) A cheatsheet for markdown document files and how to format text on them.
-* [MTG Life Counter](https://github.com/SachinSAgrawal/MTG-Life-Counter) Track the scores of 2-4 players in a game of Magic the Gathering if you don't have any D20s.
-* [Onboarding](https://github.com/SachinSAgrawal/Onboarding) Simple onboarding cards made with UIKit that you can easily add to your iOS app.
-* [Pet Hamster Fitbit](https://github.com/SachinSAgrawal/Pet-Hamster-Fitbit) An open-source Fitbit app to watch a hamster run in his cage with a few features.
-* [Pixel Art Board](https://github.com/SachinSAgrawal/Pixel-Art-Board) A simple python code that makes use of Turtle to turn the canvas into a pixel art board.
-* [Rickroll Clock Fitbit](https://github.com/SachinSAgrawal/Rickroll-Clock-Fitbit) An open-source Fitbit clockface that shows a Rickroll GIF along with a few statistics.
-* [Settings](https://github.com/SachinSAgrawal/Settings) A simple and customizable settings page with a familiar UI you can add to any app.
-* [Tanks Game](https://github.com/SachinSAgrawal/Tanks-Game) The Tanks Game coded in Ruby that runs entirely in terminal using ASCII graphics.
-* [Xcode RPC](https://github.com/SachinSAgrawal/Xcode-RPC) An Xcode RPC for Discord originally made by llsc12 with an improved UI by me.
-* [YOURLS Device Details](https://github.com/SachinSAgrawal/YOURLS-Device-Details) A YOURLS plugin to parse the user-agent and display information about IP and device.
+* [AR Stack](https://github.com/SachinSAgrawal/AR-Stack) - This app brings the popular game Stack into the real world with Augmented Reality.
+* [AR Vector Fields](https://github.com/SachinSAgrawal/AR-Vector-Fields) - This app allows you to visualize vector fields in the real world with Augmented Reality.
+* [Board Breaker](https://github.com/SachinSAgrawal/Board-Breaker) - The first-of-its-kind Board Breaker game coded in Ruby that can be run from terminal.
+* [Custom Widgets](https://github.com/SachinSAgrawal/Custom-Widgets) - Explore different iOS widgets including a fancy weather one for your lock screen.
+* [Dino Game](https://github.com/SachinSAgrawal/Dino-Game) - This app brings the iconic Google Chrome no-internet Dinosaur Game to your Apple Watch.
+* [Hangman ASCII](https://github.com/SachinSAgrawal/Hangman-ASCII) - Play the classic game of Hangman by guessing a secret word with ASCII art visuals.
+* [Markdown Cheatsheet](https://github.com/SachinSAgrawal/Markdown-Cheatsheet) - A cheatsheet for markdown document files and how to format text on them.
+* [MTG Life Counter](https://github.com/SachinSAgrawal/MTG-Life-Counter) - Track the scores of 2-4 players in a game of Magic the Gathering if you don't have any D20s.
+* [Onboarding](https://github.com/SachinSAgrawal/Onboarding) - Simple onboarding cards made with UIKit that you can easily add to your iOS app.
+* [Pet Hamster Fitbit](https://github.com/SachinSAgrawal/Pet-Hamster-Fitbit) - An open-source Fitbit app to watch a hamster run in his cage with a few features.
+* [Pixel Art Board](https://github.com/SachinSAgrawal/Pixel-Art-Board) - A simple python code that makes use of Turtle to turn the canvas into a pixel art board.
+* [Rickroll Clock Fitbit](https://github.com/SachinSAgrawal/Rickroll-Clock-Fitbit) - An open-source Fitbit clockface that shows a Rickroll GIF along with a few statistics.
+* [Settings](https://github.com/SachinSAgrawal/Settings) - A simple and customizable settings page with a familiar UI you can add to any app.
+* [Tanks Game](https://github.com/SachinSAgrawal/Tanks-Game) - The Tanks Game coded in Ruby that runs entirely in terminal using ASCII graphics.
+* [Xcode RPC](https://github.com/SachinSAgrawal/Xcode-RPC) - An Xcode RPC for Discord originally made by llsc12 with an improved UI by me.
+* [YOURLS Device Details](https://github.com/SachinSAgrawal/YOURLS-Device-Details) - A YOURLS plugin to parse the user-agent and display information about IP and device.
 
 <!--
 ### Hi there 👋
