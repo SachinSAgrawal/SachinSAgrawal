@@ -45,6 +45,7 @@ See some of my favorite projects in the pins just below this or continue reading
 * [Hangman ASCII](https://github.com/SachinSAgrawal/Hangman-ASCII) - Play the classic game of Hangman by guessing a secret word with ASCII art visuals.
 * [Markdown Cheatsheet](https://github.com/SachinSAgrawal/Markdown-Cheatsheet) - A cheatsheet for markdown document files and how to format text on them.
 * [MTG Life Counter](https://github.com/SachinSAgrawal/MTG-Life-Counter) - Track the scores of 2-4 players in a game of Magic the Gathering if you have no D20s.
+* [NRC Maze Robot Tutorial](https://github.com/SachinSAgrawal/NRC-Maze-Robot-Tutorial) - A tutorial to build a robot for the National Robotics Challenge's Robot Maze contest.
 * [Onboarding](https://github.com/SachinSAgrawal/Onboarding) - Simple onboarding cards made with UIKit that you can easily add to your iOS app.
 * [Pet Hamster Fitbit](https://github.com/SachinSAgrawal/Pet-Hamster-Fitbit) - An open-source Fitbit app to watch a hamster run in his cage with a few features.
 * [Pixel Art Board](https://github.com/SachinSAgrawal/Pixel-Art-Board) - A simple python code that makes use of Turtle to turn the canvas into a pixel art board.
