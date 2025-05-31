@@ -13,7 +13,7 @@ Some of my other hobbies besides coding and Minecraft include playing the violin
 ### Websites
 
 #### Original 
-Note that some of the links might not work because I never renewed them, so there are links to mirrors of them on Glitch. 
+Note that these links might not work because I never renewed them, so there are links to mirrors of them on GitHub pages below. 
 
 * Primary: [sachinagrawal.me](https://sachinagrawal.me)
 * Fitbit: [sagrawal8fitbit.dev](https://sagrawal8fitbit.dev)
@@ -22,11 +22,11 @@ Note that some of the links might not work because I never renewed them, so ther
 * YouTube: [scinovuscrafted.com](https://scinovuscrafted.com)
 
 #### Mirror 
-* Primary: [sachinagrawal.glitch.me](https://sachinagrawal.glitch.me/)
-* Fitbit: [sagrawal8fitbitdev.glitch.me](https://sagrawal8fitbitdev.glitch.me)
-* Bots: [scisdiscordbots.glitch.me](https://scisdiscordbots.glitch.me)
-* Calculator: [ti84calcdev.glitch.me](https://ti84calcdev.glitch.me)
-* YouTube: [scinovuscrafted.glitch.me](https://scinovuscrafted.glitch.me)
+* Primary: [sachinsagrawal.github.io](https://sachinsagrawal.github.io)
+* Fitbit: [github.io/sagrawal8fitbitdev](https://pagedeploy.github.io/sagrawal8fitbitdev)
+* Bots: [github.io/scisdiscordbots](https://pagedeploy.github.io/scisdiscordbots)
+* Calculator: [github.io/ti84calcdev](https://pagedeploy.github.io/scisdiscordbots)
+* YouTube: [github.io/scinovuscrafted](https://pagedeploy.github.io/scisdiscordbots)
 
 ### Contact
 I am by far the most active on Discord so I am most likely to reply there.
