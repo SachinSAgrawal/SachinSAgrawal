@@ -25,8 +25,8 @@ Note that these links might not work because I never renewed them, so there are 
 * Primary: [sachinsagrawal.github.io](https://sachinsagrawal.github.io)
 * Fitbit: [github.io/sagrawal8fitbitdev](https://pagedeploy.github.io/sagrawal8fitbitdev)
 * Bots: [github.io/scisdiscordbots](https://pagedeploy.github.io/scisdiscordbots)
-* Calculator: [github.io/ti84calcdev](https://pagedeploy.github.io/scisdiscordbots)
-* YouTube: [github.io/scinovuscrafted](https://pagedeploy.github.io/scisdiscordbots)
+* Calculator: [github.io/ti84calcdev](https://pagedeploy.github.io/ti84calcdev)
+* YouTube: [github.io/scinovuscrafted](https://pagedeploy.github.io/scinovuscrafted)
 
 ### Contact
 I am by far the most active on Discord so I am most likely to reply there.
