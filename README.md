@@ -8,7 +8,7 @@ I have also created several apps, games, and clockfaces for Fitbit Versa smartwa
 I am a full-stack web developer who has coded multiple websites (see below) and has also made a custom device details plugin for YOURLS. <br>
 Other projects I have worked on include making two fun Discord bots and many math/science programs for TI-84 Plus CE calculators. <br>
 I’ve gotten into 3D printing/modeling with my Prusa, and while I am no expert at CAD, I have posted a few of my designs on Printables. <br>
-In my free time, I like to play the popular block-based videogame Minecraft, and I post Minecraft videos on my YouTube channel. <br>
+In my free time, I like to play the popular block-based videogame Minecraft, and I post primarily Minecraft videos on my YouTube channel. <br>
 Some of my other hobbies besides coding and Minecraft include playing the violin, traveling, photography, lacrosse, rickrolling, and reading. <br>
 
 ## Websites
@@ -32,7 +32,7 @@ All websites are hosted using GitHub pages since I never renewed the domains ass
 * Calculator: [github.io/ti84calcdev](https://pagedeploy.github.io/ti84calcdev)
 * YouTube: [github.io/scinovuscrafted](https://pagedeploy.github.io/scinovuscrafted)
 
-## Contact
+## Socials
 I am by far the most active on Discord so that is the best way to contact me.
 
 * Discord: [scinovuscrafted](https://discord.com/users/575795042933932071)
