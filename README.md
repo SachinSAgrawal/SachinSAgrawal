@@ -1,19 +1,21 @@
 # Sachin Agrawal
 
-## High School Student; Washington, DC
+### Student and Developer
 
-I am a self-taught programmer who knows Swift, Objective/Arduino C, Python, JavaScript, HTML, CSS, LaTeX, PHP, Ruby, and Bash/Shell. 
-I have created several apps, games, and clockfaces for Fitbit Versa smartwatches, some of which are open source on my Github.
-I'm a full-stack web developer who owns multiple websites, including link shorteners made using YOURLS and some custom plugins.
-I'm now more into iOS/WatchOS app and game development so I joined the Apple Developer Program and spend most of my time on that.
-Other projects I have worked on include two fun Discord bots and calculus programs for my TI-84 Plus CE calculator.
-In my free time, I like to play the popular block-based videogame Minecraft, and post Minecraft videos on YouTube.
-Some of my other hobbies besides coding and Minecraft include playing the violin, lacrosse, rickrolling, and reading. 
+I am a self-taught programmer who knows Swift, Objective/Arduino C, Python, JavaScript, HTML, CSS, LaTeX, PHP, Ruby, and Bash/Shell. <br>
+I'm into iOS/WatchOS app and game development, so I joined the Apple Developer Program but many of my apps are open source, not published. <br>
+I have also created several apps, games, and clockfaces for Fitbit Versa smartwatches, some of which are open source on GitHub as well. <br>
+I am a full-stack web developer who has coded multiple websites (see below) and has also made a custom device details plugin for YOURLS. <br>
+Other projects I have worked on include making two fun Discord bots and many math/science programs for TI-84 Plus CE calculators. <br>
+I’ve gotten into 3D printing/modeling with my Prusa, and while I am no expert at CAD, I have posted a few of my designs on Printables. <br>
+In my free time, I like to play the popular block-based videogame Minecraft, and I post Minecraft videos on my YouTube channel. <br>
+Some of my other hobbies besides coding and Minecraft include playing the violin, traveling, photography, lacrosse, rickrolling, and reading. <br>
 
-### Websites
+## Websites
+All websites are hosted using GitHub pages since I never renewed the domains associated with them.
 
+<!--
 #### Original 
-Note that these links might not work because I never renewed them, so there are links to mirrors of them on GitHub pages below. 
 
 * Primary: [sachinagrawal.me](https://sachinagrawal.me)
 * Fitbit: [sagrawal8fitbit.dev](https://sagrawal8fitbit.dev)
@@ -22,19 +24,23 @@ Note that these links might not work because I never renewed them, so there are 
 * YouTube: [scinovuscrafted.com](https://scinovuscrafted.com)
 
 #### Mirror 
+-->
+
 * Primary: [sachinsagrawal.github.io](https://sachinsagrawal.github.io)
 * Fitbit: [github.io/sagrawal8fitbitdev](https://pagedeploy.github.io/sagrawal8fitbitdev)
 * Bots: [github.io/scisdiscordbots](https://pagedeploy.github.io/scisdiscordbots)
 * Calculator: [github.io/ti84calcdev](https://pagedeploy.github.io/ti84calcdev)
 * YouTube: [github.io/scinovuscrafted](https://pagedeploy.github.io/scinovuscrafted)
 
-### Contact
-I am by far the most active on Discord so I am most likely to reply there.
+## Contact
+I am by far the most active on Discord so that is the best way to contact me.
 
-* Email: [github@sachin.email](mailto:github@sachin.email)
 * Discord: [scinovuscrafted](https://discord.com/users/575795042933932071)
+* Instagram: [sachinsagrawal2](https://www.instagram.com/sachinsagrawal2)
+* Printables: [sachinsagrawal](https://www.printables.com/@sachinsagrawal)
+* LinkedIn: Coming soon!
 
-### Projects
+## Projects
 See some of my favorite projects in the pins just below this or continue reading for a full list!
 
 * [AR Stack](https://github.com/SachinSAgrawal/AR-Stack) - This app brings the popular game Stack into the real world with Augmented Reality.
