@@ -43,6 +43,7 @@ I am by far the most active on Discord so that is the best way to contact me.
 ## Projects
 See some of my favorite projects in the pins just below this or continue reading for a full list!
 
+* [Anti Rickroll](https://github.com/SachinSAgrawal/Anti-Rickroll) - A Chrome extension that displays a warning when you navigate to known YouTube rickrolls.
 * [AR Stack](https://github.com/SachinSAgrawal/AR-Stack) - This app brings the popular game Stack into the real world with Augmented Reality.
 * [AR Vector Fields](https://github.com/SachinSAgrawal/AR-Vector-Fields) - This app allows you to visualize vector fields in the real world with Augmented Reality.
 * [Arduino Whack-a-Mole Simon](https://github.com/SachinSAgrawal/Arduino-WhackAMole-Simon) - Build and program an Arduino circuit to play either Whack-a-Mole or Simon.
@@ -59,6 +60,7 @@ See some of my favorite projects in the pins just below this or continue reading
 * [Pose Estimation](https://github.com/SachinSAgrawal/Pose-Estimation) - Use LiDAR to estimate object pose with advanced marker detection for world origin.
 * [Rickroll Clock Fitbit](https://github.com/SachinSAgrawal/Rickroll-Clock-Fitbit) - An open-source Fitbit clockface that shows a Rickroll GIF along with a few statistics.
 * [Settings](https://github.com/SachinSAgrawal/Settings) - A simple and customizable settings page with a familiar UI you can add to any iOS app.
+* [Shorts Watch Later](https://github.com/SachinSAgrawal/Shorts-Watch-Later) - Adds a native-looking Watch Later button to YouTube Shorts on channel pages.
 * [Tanks Game](https://github.com/SachinSAgrawal/Tanks-Game) - The Tanks Game coded in Ruby that runs entirely in terminal using ASCII graphics.
 * [Xcode RPC](https://github.com/SachinSAgrawal/Xcode-RPC) - An Xcode RPC for Discord originally made by llsc12 with an improved UI by me.
 * [YOURLS Device Details](https://github.com/SachinSAgrawal/YOURLS-Device-Details) - A YOURLS plugin to parse the user-agent and display info about the IP and device.
