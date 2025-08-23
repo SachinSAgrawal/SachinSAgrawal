@@ -33,12 +33,12 @@ All websites are hosted using GitHub pages since I never renewed the domains ass
 * YouTube: [github.io/scinovuscrafted](https://pagedeploy.github.io/scinovuscrafted)
 
 ## Socials
-I am by far the most active on Discord so that is the best way to contact me.
+If you are looking to contact me, please use the form on my website above or DM me on Discord.
 
 * Discord: [scinovuscrafted](https://discord.com/users/575795042933932071)
 * Instagram: [sachinsagrawal2](https://www.instagram.com/sachinsagrawal2)
 * Printables: [sachinsagrawal](https://www.printables.com/@sachinsagrawal)
-* LinkedIn: Coming soon!
+* LinkedIn: [sachinsagrawal](https://www.linkedin.com/in/sachinsagrawal/)
 
 ## Projects
 See some of my favorite projects in the pins just below this or continue reading for a full list!
