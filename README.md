@@ -1,22 +1,14 @@
-# Sachin Agrawal
+## About
+Although I am ultimately interested in a career researching and developing medical devices for direct clinical applications, I enjoy software development and programming. Much of my experience is with iOS development using Swift and full-stack web development using a combination of HTML, CSS, JavaScript, and PHP, but I know other languages, including Python, C++, and LaTeX. You can read about my projects on my blog and even try some out for yourself, as I am a big fan of free and open-source software. My other hobbies besides coding are playing the violin, photography, 3D printing, traveling, biking, cooking, playing Minecraft, and YouTube content creation.
 
-### Student and Developer
+## Website
+Link (blog in header): [sachinsagrawal.github.io](https://sachinsagrawal.github.io)
 
-I am a self-taught programmer who knows Swift, Objective/Arduino C, Python, JavaScript, HTML, CSS, LaTeX, PHP, Ruby, and Bash/Shell. <br>
-I'm into iOS/WatchOS app and game development, so I joined the Apple Developer Program but many of my apps are open source, not published. <br>
-I have also created several apps, games, and clockfaces for Fitbit Versa smartwatches, some of which are open source on GitHub as well. <br>
-I am a full-stack web developer who has coded multiple websites (see below) and has also made a custom device details plugin for YOURLS. <br>
-Other projects I have worked on include making two fun Discord bots and many math/science programs for TI-84 Plus CE calculators. <br>
-I’ve gotten into 3D printing/modeling with my Prusa, and while I am no expert at CAD, I have posted a few of my designs on Printables. <br>
-In my free time, I like to play the popular block-based videogame Minecraft, and I post primarily Minecraft videos on my YouTube channel. <br>
-Some of my other hobbies besides coding and Minecraft include playing the violin, traveling, photography, lacrosse, rickrolling, and reading. <br>
-
+<!--
 ## Websites
 All websites are hosted using GitHub pages since I never renewed the domains associated with them.
 
-<!--
 #### Original 
-
 * Primary: [sachinagrawal.me](https://sachinagrawal.me)
 * Fitbit: [sagrawal8fitbit.dev](https://sagrawal8fitbit.dev)
 * Bots: [scisdiscordbots.com](https://scisdiscordbots.com)
@@ -24,8 +16,6 @@ All websites are hosted using GitHub pages since I never renewed the domains ass
 * YouTube: [scinovuscrafted.com](https://scinovuscrafted.com)
 
 #### Mirror 
--->
-
 * Primary: [sachinsagrawal.github.io](https://sachinsagrawal.github.io)
 * Fitbit: [github.io/sagrawal8fitbitdev](https://pagedeploy.github.io/sagrawal8fitbitdev)
 * Bots: [github.io/scisdiscordbots](https://pagedeploy.github.io/scisdiscordbots)
@@ -39,6 +29,7 @@ If you are looking to contact me, please use the form on my website above or DM 
 * Instagram: [sachinsagrawal2](https://www.instagram.com/sachinsagrawal2)
 * Printables: [sachinsagrawal](https://www.printables.com/@sachinsagrawal)
 * LinkedIn: [sachinsagrawal](https://www.linkedin.com/in/sachinsagrawal/)
+-->
 
 ## Projects
 See some of my favorite projects in the pins just below this or continue reading for a full list!
