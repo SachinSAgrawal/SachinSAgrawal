@@ -2,7 +2,7 @@
 Although I am ultimately interested in a career researching and developing medical devices for direct clinical applications, I enjoy software development and programming. Much of my experience is with iOS development using Swift and full-stack web development using a combination of HTML, CSS, JavaScript, and PHP, but I know other languages, including Python, C++, and LaTeX. You can read about my projects on my blog and even try some out for yourself, as I am a big fan of free and open-source software. My other hobbies besides coding are playing the violin, photography, 3D printing, traveling, biking, cooking, playing Minecraft, and YouTube content creation.
 
 ## Website
-Link (blog in header): [sachinsagrawal.github.io](https://sachinsagrawal.github.io)
+Link: [sachinsagrawal.github.io](https://sachinsagrawal.github.io)  (access blog through header)
 
 <!--
 ## Websites
