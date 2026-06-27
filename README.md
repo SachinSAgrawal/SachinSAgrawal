@@ -34,27 +34,46 @@ If you are looking to contact me, please use the form on my website above or DM 
 ## Projects
 See some of my favorite projects in the pins just below this or continue reading for a full list!
 
-* [Anti Rickroll](https://github.com/SachinSAgrawal/Anti-Rickroll) - A Chrome extension that displays a warning when you navigate to known YouTube rickrolls.
+### Apple
+
 * [AR Stack](https://github.com/SachinSAgrawal/AR-Stack) - This app brings the popular game Stack into the real world with Augmented Reality.
 * [AR Vector Fields](https://github.com/SachinSAgrawal/AR-Vector-Fields) - This app allows you to visualize vector fields in the real world with Augmented Reality.
-* [Arduino Whack-a-Mole Simon](https://github.com/SachinSAgrawal/Arduino-WhackAMole-Simon) - Build and program an Arduino circuit to play either Whack-a-Mole or Simon.
-* [Board Breaker](https://github.com/SachinSAgrawal/Board-Breaker) - The first-of-its-kind Board Breaker game coded in Ruby that can be run from terminal.
 * [Custom Widgets](https://github.com/SachinSAgrawal/Custom-Widgets) - Explore different iOS widgets including a fancy weather one for your lock screen.
 * [Dino Game](https://github.com/SachinSAgrawal/Dino-Game) - This app brings the iconic Google Chrome no-internet Dinosaur Game to your Apple Watch.
+* [MTG Life Counter](https://github.com/SachinSAgrawal/MTG-Life-Counter) - Track the scores of 2-4 players in a game of Magic the Gathering if you have no D20s.
+* [Onboarding](https://github.com/SachinSAgrawal/Onboarding) - Simple onboarding cards made with UIKit that you can easily add to your iOS app.
+* [Pose Estimation](https://github.com/SachinSAgrawal/Pose-Estimation) - Use LiDAR to estimate object pose with advanced marker detection for world origin.
+* [Settings](https://github.com/SachinSAgrawal/Settings) - A simple and customizable settings page with a familiar UI you can add to any iOS app.
+* [Xcode RPC](https://github.com/SachinSAgrawal/Xcode-RPC) - An Xcode RPC for Discord originally made by llsc12 with an improved UI by me.
+
+### Fitbit
+
+* [Pet Hamster](https://github.com/SachinSAgrawal/Pet-Hamster-Fitbit) - An open-source Fitbit app to watch a hamster run in his cage with a few features.
+* [Rickroll Clock](https://github.com/SachinSAgrawal/Rickroll-Clock-Fitbit) - An open-source Fitbit clockface that shows a Rickroll GIF along with a few statistics.
+
+### YOURLS Plugins
+
+* [Device Details](https://github.com/SachinSAgrawal/YOURLS-Device-Details) - Displays click details, including IP/location, device information, and user-agent.
+* [Download Delete](https://github.com/SachinSAgrawal/YOURLS-Dowload-Delete) - Allows you to directly download or delete other plugins from the admin panel.
+* [Generate QRCode](https://github.com/SachinSAgrawal/YOURLS-Generate-QRCode) - Shows a customizable QR code generator upon link generation and afterwards.
+
+### Arduino
+
+* [Arduino Whack-a-Mole Simon](https://github.com/SachinSAgrawal/Arduino-WhackAMole-Simon) - Build and program an Arduino circuit to play either Whack-a-Mole or Simon.
+* [NRC Maze Robot Tutorial](https://github.com/SachinSAgrawal/NRC-Maze-Robot-Tutorial) - A tutorial for the National Robotics Challenge's Robot Maze contest.
+
+### Extensions
+
+* [Anti Rickroll](https://github.com/SachinSAgrawal/Anti-Rickroll) - A Chrome extension that displays a warning when you navigate to known YouTube rickrolls.
+* [Shorts Watch Later](https://github.com/SachinSAgrawal/Shorts-Watch-Later) - Adds a native-looking Watch Later button to YouTube Shorts on channel pages.
+
+### Other
+
+* [Board Breaker](https://github.com/SachinSAgrawal/Board-Breaker) - The first-of-its-kind Board Breaker game coded in Ruby that can be run from terminal.
 * [Hangman ASCII](https://github.com/SachinSAgrawal/Hangman-ASCII) - Play the classic game of Hangman by guessing a secret word with ASCII art visuals.
 * [Markdown Cheatsheet](https://github.com/SachinSAgrawal/Markdown-Cheatsheet) - A cheatsheet for markdown document files and how to format text on them.
-* [MTG Life Counter](https://github.com/SachinSAgrawal/MTG-Life-Counter) - Track the scores of 2-4 players in a game of Magic the Gathering if you have no D20s.
-* [NRC Maze Robot Tutorial](https://github.com/SachinSAgrawal/NRC-Maze-Robot-Tutorial) - A tutorial for the National Robotics Challenge's Robot Maze contest.
-* [Onboarding](https://github.com/SachinSAgrawal/Onboarding) - Simple onboarding cards made with UIKit that you can easily add to your iOS app.
-* [Pet Hamster Fitbit](https://github.com/SachinSAgrawal/Pet-Hamster-Fitbit) - An open-source Fitbit app to watch a hamster run in his cage with a few features.
 * [Pixel Art Board](https://github.com/SachinSAgrawal/Pixel-Art-Board) - A simple Python code that makes use of Turtle to turn the canvas into a pixel art board.
-* [Pose Estimation](https://github.com/SachinSAgrawal/Pose-Estimation) - Use LiDAR to estimate object pose with advanced marker detection for world origin.
-* [Rickroll Clock Fitbit](https://github.com/SachinSAgrawal/Rickroll-Clock-Fitbit) - An open-source Fitbit clockface that shows a Rickroll GIF along with a few statistics.
-* [Settings](https://github.com/SachinSAgrawal/Settings) - A simple and customizable settings page with a familiar UI you can add to any iOS app.
-* [Shorts Watch Later](https://github.com/SachinSAgrawal/Shorts-Watch-Later) - Adds a native-looking Watch Later button to YouTube Shorts on channel pages.
 * [Tanks Game](https://github.com/SachinSAgrawal/Tanks-Game) - The Tanks Game coded in Ruby that runs entirely in terminal using ASCII graphics.
-* [Xcode RPC](https://github.com/SachinSAgrawal/Xcode-RPC) - An Xcode RPC for Discord originally made by llsc12 with an improved UI by me.
-* [YOURLS Device Details](https://github.com/SachinSAgrawal/YOURLS-Device-Details) - A YOURLS plugin to parse the user-agent and display info about the IP and device.
 
 <!--
 ### Hi there 👋
