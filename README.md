@@ -46,26 +46,26 @@ See some of my favorite projects in the pins just below this or continue reading
 * [Settings](https://github.com/SachinSAgrawal/Settings) - A simple and customizable settings page with a familiar UI you can add to any iOS app.
 * [Xcode RPC](https://github.com/SachinSAgrawal/Xcode-RPC) - An Xcode RPC for Discord originally made by llsc12 with an improved UI by me.
 
-### Fitbit
-
-* [Pet Hamster](https://github.com/SachinSAgrawal/Pet-Hamster-Fitbit) - An open-source Fitbit app to watch a hamster run in his cage with a few features.
-* [Rickroll Clock](https://github.com/SachinSAgrawal/Rickroll-Clock-Fitbit) - An open-source Fitbit clockface that shows a Rickroll GIF along with a few statistics.
-
 ### YOURLS Plugins
 
 * [Device Details](https://github.com/SachinSAgrawal/YOURLS-Device-Details) - Displays click details, including IP/location, device information, and user-agent.
 * [Download Delete](https://github.com/SachinSAgrawal/YOURLS-Dowload-Delete) - Allows you to directly download or delete other plugins from the admin panel.
 * [Generate QRCode](https://github.com/SachinSAgrawal/YOURLS-Generate-QRCode) - Shows a customizable QR code generator upon link generation and afterwards.
 
+### Extensions
+
+* [Anti Rickroll](https://github.com/SachinSAgrawal/Anti-Rickroll) - A Chrome extension that displays a warning when you navigate to known YouTube rickrolls.
+* [Shorts Watch Later](https://github.com/SachinSAgrawal/Shorts-Watch-Later) - Adds a native-looking Watch Later button to YouTube Shorts on channel pages.
+
 ### Arduino
 
 * [Arduino Whack-a-Mole Simon](https://github.com/SachinSAgrawal/Arduino-WhackAMole-Simon) - Build and program an Arduino circuit to play either Whack-a-Mole or Simon.
 * [NRC Maze Robot Tutorial](https://github.com/SachinSAgrawal/NRC-Maze-Robot-Tutorial) - A tutorial for the National Robotics Challenge's Robot Maze contest.
 
-### Extensions
+### Fitbit
 
-* [Anti Rickroll](https://github.com/SachinSAgrawal/Anti-Rickroll) - A Chrome extension that displays a warning when you navigate to known YouTube rickrolls.
-* [Shorts Watch Later](https://github.com/SachinSAgrawal/Shorts-Watch-Later) - Adds a native-looking Watch Later button to YouTube Shorts on channel pages.
+* [Pet Hamster](https://github.com/SachinSAgrawal/Pet-Hamster-Fitbit) - An open-source Fitbit app to watch a hamster run in his cage with a few features.
+* [Rickroll Clock](https://github.com/SachinSAgrawal/Rickroll-Clock-Fitbit) - An open-source Fitbit clockface that shows a Rickroll GIF along with a few statistics.
 
 ### Other
 
